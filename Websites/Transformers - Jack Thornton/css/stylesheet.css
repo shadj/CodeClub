@@ -1,0 +1,14 @@
+ body{
+background-color: green;
+color: blue;
+font-family: 'Chicle', cursive;
+}
+.fade {
+color: gold;
+opacity:1;
+transition: opacity .25s ease-in-out;
+}
+.fade:hover
+{
+color: red;
+}

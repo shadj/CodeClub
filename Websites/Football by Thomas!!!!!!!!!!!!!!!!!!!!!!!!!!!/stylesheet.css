@@ -1,0 +1,15 @@
+body{
+	background-color: black;
+	font-family: 'Denk One', sans-serif;
+	color: white;
+}
+
+.fade {
+	opacity: 1;
+	}
+	
+.fade:hover {
+	color:gold;
+	transition: opacity .25s ease-in-out;
+
+	}

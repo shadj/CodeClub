@@ -1,0 +1,17 @@
+body {
+	background-color: lightblue;
+	font-family: 'Noto Serif', serif;
+	}
+	
+	.fade{
+	color: Red;	
+	opacity:1;
+	transition: opacity .25s ease-in-out;
+}
+
+.fade:hover{
+	opacity 0.5;
+	color: yellow;
+	}
+
+	

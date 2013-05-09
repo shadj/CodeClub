@@ -1,0 +1,12 @@
+body{
+    background-color:#FF6600;
+	font-family: 'Autour One', cursive;
+}
+.fade{
+	color:#FFFFFF;
+	opacity: 1;
+}
+.fade:hover {
+    color:  yellow;
+	transition: opacity .25s ease-in-out;
+}

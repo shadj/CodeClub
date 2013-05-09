@@ -1,0 +1,13 @@
+body {
+background-color:blue;
+color: white;
+font-family: 'Bowlby One', cursive;
+
+}
+.fade{
+	color:red;
+}	
+	
+.fade: hover {
+	color: green;
+	}

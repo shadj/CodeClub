@@ -1,0 +1,16 @@
+body {
+background-color: green;
+font-family: 'Sunshiney', cursive;
+color: blue;
+font-size: 2em;
+} 
+ 
+ .fade {
+	color: blue;	
+	 transition: color .25s ease-in-out;
+
+}
+
+.fade:hover {
+color: gold;
+	 }

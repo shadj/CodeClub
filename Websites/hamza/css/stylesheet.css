@@ -1,0 +1,16 @@
+body {
+ 
+background-color: green;
+color:blue;
+font-family: 'Swanky and Moo Moo', cursive;
+}
+
+.fade {
+color: blue;
+opacity: 1;
+}
+
+.fade:hover {
+color:red;
+transition: opacity .25s ease-in-out;
+}
